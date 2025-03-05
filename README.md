@@ -116,4 +116,6 @@ print(f"Rulluisutaja jõuab {minutid} minutiga umbes {kaugus_km:.2f} km kaugusel
 minutid_kasutajalt=int(input("Aeg minutides:"))
 tunnid=minutid_kasutajalt//60 # täisosa
 minutid=minutid_kasutajalt%60 # jääk
-print("vastus".center(20,"*")) # vorminda ise vastus nii: "hh:mm"
+print("vastus".center(20,"*")) 
+print(f"{tunnid:02d} : {minutid:02d}
+
