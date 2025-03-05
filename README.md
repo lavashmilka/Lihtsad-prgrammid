@@ -1,1 +1,1 @@
-# Lihtsad-prgrammid
+# Lihtsad-programmid
